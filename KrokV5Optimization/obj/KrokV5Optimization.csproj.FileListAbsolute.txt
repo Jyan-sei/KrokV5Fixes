@@ -1,0 +1,10 @@
+C:\Users\Owner\Documents\CasuGame\PluginSource\KrokV5Optimization\obj\KrokV5Optimization.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\CasuGame\PluginSource\KrokV5Optimization\obj\KrokV5Optimization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Documents\CasuGame\PluginSource\KrokV5Optimization\obj\KrokV5Optimization.AssemblyInfoInputs.cache
+C:\Users\Owner\Documents\CasuGame\PluginSource\KrokV5Optimization\obj\KrokV5Optimization.AssemblyInfo.cs
+C:\Users\Owner\Documents\CasuGame\PluginSource\KrokV5Optimization\obj\KrokV5Optimization.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\CasuGame\PluginSource\KrokV5Optimization\obj\KrokV5Optimization.sourcelink.json
+C:\Users\Owner\Documents\CasuGame\PluginSource\KrokV5Optimization\bin\KrokV5Optimization.dll
+C:\Users\Owner\Documents\CasuGame\PluginSource\KrokV5Optimization\bin\KrokV5Optimization.pdb
+C:\Users\Owner\Documents\CasuGame\PluginSource\KrokV5Optimization\obj\KrokV5Optimization.dll
+C:\Users\Owner\Documents\CasuGame\PluginSource\KrokV5Optimization\obj\KrokV5Optimization.pdb
